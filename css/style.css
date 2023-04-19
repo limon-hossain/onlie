@@ -1,0 +1,36 @@
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+p{
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+}
+.hr-1{
+    color: #00f124;
+    
+}
+.section-1{
+    padding: 120px 0;
+    
+}
+
+.section-2{
+    margin-bottom: 80px;
+}
+
+.section-2 h5 b{
+    color: #bd1f1f;
+
+}
+
+.carousel-indicators button{
+	width: 10px !important;
+	height: 10px !important;
+	border-radius: 50%;
+}
+
+
